@@ -1,0 +1,5 @@
+REPO="https://raw.githubusercontent.com/SaputraTech/b45r3ng/main"
+ 
+
+
+wget -O /root/.config/rclone/rclone.conf "${REPO}Fls/rclone.conf"
